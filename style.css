@@ -1,0 +1,12 @@
+body {
+    color: purple;
+    background: white;
+}
+
+header {
+    border: solid 2px purple;
+}
+
+    section{
+        background :rgb(255, 215, 234)
+    }
