@@ -1,6 +1,7 @@
 body {
     color: purple;
     background: white;
+    font-family: "Playwrite CU", cursive;
 }
 
 header {
@@ -10,3 +11,7 @@ header {
     section{
         background :rgb(255, 215, 234)
     }
+
+    .chamada-texto {
+        marging-right: 5%;
+    }sssss
